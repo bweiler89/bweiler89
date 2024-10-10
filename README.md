@@ -7,8 +7,8 @@
 
 ### Welcome to my github profile!
 
-- I'm currently studying coral microbes using metabarcoding and transcriptomics
-- I’m currently learning Docker
+- 🪸🧬 I'm currently studying coral microbes using metabarcoding and transcriptomics
+- 🖥️ I’m currently learning Docker
 - How to reach me: bradley.weiler@noaa.gov
 - Want to know more about my projects? Check out my [research card](bradweilerphd.carrd.co)
 <!--
