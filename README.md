@@ -5,7 +5,7 @@
 
 - 🪸🧬 I'm currently studying coral holobionts using metabarcoding and transcriptomics
 - 🖥️ I’m currently learning Docker
-- How to reach me: bradley.weiler@noaa.gov
+- How to reach me: bradweiler.on@gmail.com
 - Want to know more about my projects? Check out my research card @bradweilerphd.carrd.co
 <!--
 **bweiler89/bweiler89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
